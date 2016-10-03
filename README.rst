@@ -6,7 +6,7 @@ During my master internship I did a lot of work on atom-diatom quantum scatterin
 
 An example of the result, which needs some quantum mechanics knowledge to appreciate:
 
-![H+CO state-to-state probability](https://raw.githubusercontent.com/mverleg/quantum_scattering/master/HCO_s2s_v1j0J5_prob.png)
+.. image:: https://raw.githubusercontent.com/mverleg/quantum_scattering/master/HCO_s2s_v1j0J5_prob.png
 
 
 
